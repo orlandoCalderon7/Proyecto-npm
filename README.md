@@ -26,6 +26,7 @@ Comando de instalación
 
 npm install nodemon --save-dev
 
+forma abreviada
 npm i nodemon -D
 
 Descarga el paquete nodemon y sus dependencias.
@@ -38,8 +39,9 @@ express es una dependencia de producción (dependencies) que significa que la ap
 
 Comando de instalación
 
-forma abreviada
+npm install express
 
+forma abreviada
 npm i express
 
 Descarga el paquete express y sus propias dependencias desde el registro de npm.
