@@ -26,7 +26,7 @@ Comando de instalación
 
 npm install nodemon --save-dev
 
-# forma abreviada
+forma abreviada
 
 npm i nodemon -D
 
@@ -42,7 +42,7 @@ Comando de instalación
 
 npm install express
 
-# forma abreviada
+forma abreviada
 
 npm i express
 
